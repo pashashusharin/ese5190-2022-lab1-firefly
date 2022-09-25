@@ -1,9 +1,8 @@
 University of Pennsylvania, ESE 5190: Intro to Embedded Systems, Lab 1
 
-    (TODO) YOUR NAME HERE
-        (TODO) LinkedIn, personal website, twitter, etc.
-    Tested on: (TODO) MacBook Pro (14-inch, 2021), macOS Monterey 12.5.1
+    Pavel Shusharin
+        https://www.linkedin.com/in/pavel-shusharin-126156aa/
+    Tested on: Lenovo Yoga 720, Winsows 10
 
-(TODO: Your README)
+Part 4.4 included the sensor readings of brightness and typed "i" when the sensor readings increased, the code termination condition was red color threshold upon sensing which the code would type "r" and terminate. 
 
-Include lab questions, screenshots, analysis, etc. (Remember, this is public, so don't put anything here you don't want to share with the world.)
